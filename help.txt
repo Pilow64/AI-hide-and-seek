@@ -1,0 +1,14 @@
+compile.sh
+	how to compile in command line
+	bash comile.sh
+
+makefile
+	how to compile in command line
+	make main
+
+	how to clean the file in command line
+	make clean
+
+main.exe
+	how to run in command line
+	./main
